@@ -1,9 +1,7 @@
-<h2> Hi There, Welcome to my Github profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30"></h2>
+<h2 align="center"> Hi There, Welcome to my GitHub profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30"></h2>
 
-<p> 
+
 I am **Miten Patel**, a passionate self-taught **full-stack web developer** specializing in backend and frontend programming, enabling me to contribute significantly to projects ranging from innovative startups to complex enterprise solutions.
-
-</p>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Expertise 💻</b>
 
